@@ -12,6 +12,10 @@
 
 Give it a PDF or an arXiv URL. Get back a self-contained `index.html` with step-by-step math derivations, pseudocode walkthroughs, interactive experiments, quizzes, glossary tooltips, and research lineage trees. Open in any browser. No build tools, no server, no config.
 
+<p align="center">
+  <img src="onepage_output.png" alt="Paper-to-Course OnePage Overview" width="800">
+</p>
+
 ---
 
 ## Why This Exists
@@ -212,6 +216,10 @@ Inspired by [codebase-to-course](https://github.com/zarazhangrui/codebase-to-cou
 **将任何学术论文转换为精美的交互式 HTML 教程。**
 
 给它一篇 PDF 或 arXiv 链接，它会生成一个自包含的 `index.html`，包含分步公式推导、伪代码逐行解读、交互式实验对比、测验、术语提示和研究脉络树。用浏览器打开即可，无需构建工具、服务器或任何配置。
+
+<p align="center">
+  <img src="onepage_output.png" alt="Paper-to-Course OnePage 概览" width="800">
+</p>
 
 ---
 

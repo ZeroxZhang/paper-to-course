@@ -1,3 +1,13 @@
+<!-- zerox-skills-migration -->
+> **已迁移 / Moved · 2026-10-14**
+>
+> 本 Skill 已迁移并更名为 **`zerox-paper-to-course`**。本仓库停止功能更新与修复，保留历史版本；后续维护请前往 **[zerox-paper-to-course](https://github.com/ZeroxZhang/zerox-skills/tree/main/zerox-paper-to-course)**。
+>
+> 新仓库：[ZeroxZhang/zerox-skills](https://github.com/ZeroxZhang/zerox-skills) · 技能目录：`zerox-skills/zerox-paper-to-course/` · 新调用名称：`/zerox-paper-to-course`。
+>
+> This skill has moved and is now named **`zerox-paper-to-course`**. This repository is retained for historical reference and will no longer receive feature updates or fixes. Continue at **[zerox-paper-to-course](https://github.com/ZeroxZhang/zerox-skills/tree/main/zerox-paper-to-course)** in [ZeroxZhang/zerox-skills](https://github.com/ZeroxZhang/zerox-skills), under `zerox-paper-to-course/`, and invoke `/zerox-paper-to-course`. The original content below describes the legacy version.
+<!-- /zerox-skills-migration -->
+
 <p align="center">
   <a href="#english">English</a> | <a href="#中文">中文</a>
 </p>
